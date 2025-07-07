@@ -6,14 +6,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Hello there! I completed my bachelor's in Mechanical Engineering from IIT Kanpur in 2024. During my undergraduate years, I worked on developing a shape-memory alloy-based variable stiffness actuator, exploring LSTM-based control and reinforcement learning frameworks for dynamic modulation. I also built a vine-like soft robot designed for rescuing children trapped in borewells and contributed to the autonomous underwater vehicle Anahita, where I integrated SLAM-based navigation systems. Anahita now competes internationally at events like SAUVC and RoboSub in San Diego. Additionally, I served as the General Secretary of Science and Technology, representing over 8000 students and managing all technical clubs and societies on campus.
 
-<p style="text-indent: 2em">
-Hello there! I completed my B.Tech in Mechanical Engineering from IIT Kanpur in 2024. During my undergraduate years, I worked on developing a shape-memory alloy-based variable stiffness actuator, exploring LSTM-based control and reinforcement learning frameworks for dynamic modulation. I also built a vine-like soft robot designed for rescuing children trapped in borewells and contributed to the autonomous underwater vehicle Anahita, where I integrated SLAM-based navigation systems. Anahita now competes internationally at events like SAUVC and RoboSub in San Diego. Additionally, I served as the General Secretary of Science and Technology, representing over 8000 students and managing all technical clubs and societies on campus.
-</p>
-
-<p style="text-indent: 2em">
 Currently, I’m working as a Software Engineer at Cisco Systems, India. My work focuses on real-time cloud infrastructure for indoor localization and asset tracking using Wi-Fi and Meraki camera feeds. I led the development of a "Snooker Ball Tracking System," which won the global Cisco HackAIthon 2024. This project involved real-time object detection from RTSP streams, custom dataset training, and Arduino-based laser actuation to automate foul detection, achieving a 95% reduction in decision latency through homography-based projection.
-</p>
+
 
 ## Selected Publications
 

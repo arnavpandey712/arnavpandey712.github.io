@@ -9,25 +9,25 @@
 
 main:
   - title: "Publications"
-    url: /publications/pub.md
+    url: /publications/
 
   # - title: "Projects"
-  #   url: /projects/
+  #   url: /projects/    
 
   # - title: "Teaching"
-  #   url: /teaching/
-
+  #   url: /teaching/    
+    
   - title: "Projects"
     url: /portfolio/
-
+        
   # - title: "Blog Posts"
   #   url: /year-archive/
-
+    
   - title: "CV"
     url: /files/CV.pdf
-
+    
   # - title: "CV"
   #   url: /cv-json/
-
+    
   # - title: "Guide"
   #   url: /markdown/

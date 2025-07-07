@@ -16,12 +16,12 @@ Real Time Streaming Protocol (RTSP) feeds, and Arduino-based laser actuation, wh
 
 ## Publications
 
-- **Pandey, A.**, Haneef, J., Sinha, Y., Chaurasiya, K.L., Bhattacharya, B.
-  **"Design and Control of a Shape-Memory Alloy Based Variable Stiffness Actuator."**  
-  *Proceedings of SPIE Smart Structures + NDE*, May 2024.  
+- **Pandey, A.**, Haneef, J., Sinha, Y., Chaurasiya, K.L., Bhattacharya, B.<br>
+  **"Design and Control of a Shape-Memory Alloy Based Variable Stiffness Actuator."**<br>
+  *Proceedings of SPIE Smart Structures + NDE*, May 2024.<br>
   [DOI](https://doi.org/10.1117/12.3010086) 
 
-- Subudhi, K.P., **Pandey, A.**, Chandraprakash, C.,  
-  **"A Vine-Inspired Soft Robot for Borewell Rescue Missions."**  
-  *Proceedings of the Indian National Conference on Applied Mechanics (INCAM)*, August 2024. (in press)  
+- Subudhi, K.P., **Pandey, A.**, Chandraprakash, C.,<br>
+  **"A Vine-Inspired Soft Robot for Borewell Rescue Missions."**<br>  
+  *Indian National Conference on Applied Mechanics (INCAM)*, August 2024.(in press<br> 
   [Abstract](https://incam.isam.co.in/book-of-abstracts) *(Paper ID-152)* 

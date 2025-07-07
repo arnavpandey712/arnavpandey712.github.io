@@ -1,4 +1,9 @@
-## Publications
+---
+layout: home
+title: "Publications"
+permalink: /pubs/
+author_profile: true
+---
 
 - **Pandey, A.**, Haneef, J., Sinha, Y., Chaurasiya, K.L., Bhattacharya, B.<br>
   **"Design and Control of a Shape-Memory Alloy Based Variable Stiffness Actuator."**<br>

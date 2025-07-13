@@ -1,6 +1,6 @@
 ---
 title: "Biometric Rapid Automated Health Monitoring Assistant (BRAHMA)"
-excerpt: "An IoT-based wearable system capable of triggering alerts during medical emergencies thorugh continuous monitoring of six critical vital parameters-SpO2, pulse rate, blood pressure, ECG, respiratory rate, and body temperature.<br/><br/><img src='/images/brahma.jpg'>"
+excerpt: "An IoT-based wearable system capable of triggering alerts during medical emergencies thorugh continuous monitoring of six critical vital parameters-SpO2, pulse rate, blood pressure, ECG, respiratory rate, and body temperature.<br/><br/><img src='/images/brahma.jpg' style='width:500px;'>"
 collection: portfolio
 ---
 

@@ -38,6 +38,6 @@ Currently, I’m working as a Software Engineer at Cisco Systems, India. My work
 - **UPSTSE Scholar, Government of Uttar Pradesh**\
   Awarded for academic excellence and research potential  
   
-## Test Scores
+<!-- ## Test Scores
 
--**TOEFL-** 110/120
+-**TOEFL-** 110/120 -->

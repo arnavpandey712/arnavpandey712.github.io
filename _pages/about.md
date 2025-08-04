@@ -35,7 +35,7 @@ Currently, I’m working as a Software Engineer at Cisco Systems, India. My work
   Runner-up among the 23 IITs for developing an IoT-based cloud health-monitoring system   
 -  **Finalist, Techkriti Open School Championship (TOSC), IIT Kanpur**\
   Selected among top 50 nationwide to present a smart card-based fuel efficiency project
-- **UPSTSE Scholar, Government of Uttar Pradesh**\
+- **UPSTSE Scholar, Government of Uttar Pradesh, India**\
   Awarded for academic excellence and research potential  
   
 <!-- ## Test Scores

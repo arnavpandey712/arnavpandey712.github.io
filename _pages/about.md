@@ -28,7 +28,7 @@ Currently, I’m working as a Software Engineer at Cisco Systems, India. My work
 - **International Conference on Micro, Nano and Smart Systems (IC-MNSS 2024)**\
   Best undergraduate student project award
 - **Jayesh Memorial Award 2024, IIT Kanpur**\
-  Best undergraduate project amongst graduating students
+  Best project amongst graduating students
 - **Winner, HackAIthon 2024, Cisco Systems** \
   The project "Snooker Ball Tracking Using Computer Vision" won the global hackathon  
 - **Silver Medalist, Inter-IIT Tech Meet 10.0**\

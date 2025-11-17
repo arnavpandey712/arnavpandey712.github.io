@@ -18,14 +18,16 @@ Currently, I’m working as a Software Engineer at Cisco Systems, India. My work
   *Proceedings of SPIE Smart Structures + NDE*, May 2024.<br>
   [DOI](https://doi.org/10.1117/12.3010086) 
 
-- Subudhi, K.P., **Pandey, A.**, Chandraprakash, C.<br>
+- Subudhi, K.P. *, **Pandey, A.** *, Chandraprakash, C. <br>
   **"A soft robot for the rescue of child trapped in borewell"** <br>
-  *Indian National Conference on Applied Mechanics (INCAM)*, August 2024 (in press)<br> 
- 
+  Proceedings of INCAM, August 2024 (in press). Springer Nature<br>
+  <sup>*</sup> Equal contribution.
+
+
 
 ## Awards
 
-- **Jayesh Memorial Award 2024, IIT Kanpur**\
+- **Jayesh Memorial Award 2024, 57<sup>th</sup> Convocation, IIT Kanpur**\
   Best project amongst graduating students
 - **Winner, HackAIthon 2024, Cisco Systems** \
   The project "Snooker Ball Tracking Using Computer Vision" won the global hackathon
@@ -33,7 +35,7 @@ Currently, I’m working as a Software Engineer at Cisco Systems, India. My work
   For outstanding innovation in undergraduate research nationally    
 - **Silver Medalist, Inter-IIT Tech Meet 10.0**\
   Runner-up among the 23 IITs for developing an IoT-based cloud health-monitoring system   
--  **Finalist, Techkriti Open School Championship (TOSC), IIT Kanpur**\
+-  **Finalist, Techkriti Open School Championship (TOSC) 2018, IIT Kanpur**\
   Selected among top 50 nationwide to present a smart card-based fuel efficiency project
 - **UPSTSE Scholar, Government of Uttar Pradesh, India**\
   Awarded for academic excellence and research potential  

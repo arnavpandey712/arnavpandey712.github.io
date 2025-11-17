@@ -21,16 +21,16 @@ Currently, I’m working as a Software Engineer at Cisco Systems, India. My work
 - Subudhi, K.P., **Pandey, A.**, Chandraprakash, C.<br>
   **"A soft robot for the rescue of child trapped in borewell"** <br>
   *Indian National Conference on Applied Mechanics (INCAM)*, August 2024 (in press)<br> 
-  [Abstract](https://incam.isam.co.in/book-of-abstracts) *(Paper ID-152)*
+ 
 
 ## Awards
 
-- **International Conference on Micro, Nano and Smart Systems (IC-MNSS 2024)**\
-  Best undergraduate student project award
 - **Jayesh Memorial Award 2024, IIT Kanpur**\
   Best project amongst graduating students
 - **Winner, HackAIthon 2024, Cisco Systems** \
-  The project "Snooker Ball Tracking Using Computer Vision" won the global hackathon  
+  The project "Snooker Ball Tracking Using Computer Vision" won the global hackathon
+- **ISSS Undergraduate Student Award 2023**\
+  For outstanding innovation in undergraduate research nationally    
 - **Silver Medalist, Inter-IIT Tech Meet 10.0**\
   Runner-up among the 23 IITs for developing an IoT-based cloud health-monitoring system   
 -  **Finalist, Techkriti Open School Championship (TOSC), IIT Kanpur**\

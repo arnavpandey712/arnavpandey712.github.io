@@ -10,7 +10,7 @@ Hello there! I completed my bachelor's in Mechanical Engineering from IIT Kanpur
 
 Currently, I’m working as a Software Engineer at Cisco Systems, India. My work focuses on real-time cloud infrastructure for indoor localization and asset tracking using Wi-Fi and Meraki camera feeds. I led the development of a "Snooker Ball Tracking System," which won the global Cisco HackAIthon 2024. This project involved real-time object detection from RTSP streams, custom dataset training, and Arduino-based laser actuation to automate foul detection, achieving a 95% reduction in decision latency through homography-based projection.
 
-My core interest lies in enabling robots to perceive and adapt to nuanced human behaviour across modalities to enhance human-robot interactions.
+My core interest lies in enabling robots to perceive and adapt to nuanced human behaviour across modalities in order to enhance human-robot interactions.
 
 ## Selected Publications
 

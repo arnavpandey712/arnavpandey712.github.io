@@ -105,29 +105,6 @@ video, iframe {
 }
 </style>
 
-<script>
-document.addEventListener('DOMContentLoaded', function() {
-  const headers = document.querySelectorAll('.solo-header');
-  
-  headers.forEach(header => {
-    header.addEventListener('click', function() {
-      const section = this.parentElement;
-      const wasActive = section.classList.contains('active');
-      
-      // Close all sections
-      document.querySelectorAll('.solo-section').forEach(s => {
-        s.classList.remove('active');
-      });
-      
-      // Open clicked section if it wasn't already open
-      if (!wasActive) {
-        section.classList.add('active');
-      }
-    });
-  });
-});
-</script>
-
 <div class="intro-text">
 I occasionally post original compositions and covers here.
 </div>
@@ -296,3 +273,37 @@ I occasionally post original compositions and covers here.
 
 </div>
 
+<script type="text/javascript">
+(function() {
+  function initAccordion() {
+    var headers = document.querySelectorAll('.solo-header');
+    
+    if (headers.length === 0) {
+      setTimeout(initAccordion, 100);
+      return;
+    }
+    
+    headers.forEach(function(header) {
+      header.addEventListener('click', function() {
+        var section = this.parentElement;
+        var wasActive = section.classList.contains('active');
+        
+        var allSections = document.querySelectorAll('.solo-section');
+        allSections.forEach(function(s) {
+          s.classList.remove('active');
+        });
+        
+        if (!wasActive) {
+          section.classList.add('active');
+        }
+      });
+    });
+  }
+  
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', initAccordion);
+  } else {
+    initAccordion();
+  }
+})();
+</script>

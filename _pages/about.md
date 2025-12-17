@@ -40,6 +40,10 @@ My core interest lies in enabling robots to perceive and adapt to nuanced human 
   Selected among top 50 nationwide to present a smart card-based fuel efficiency project
 - **UPSTSE Scholar, Government of Uttar Pradesh, India**\
   Awarded for academic excellence and research potential  
+
+---
+
+<span style="font-size: 0.9em;">*( P.S.- Outside of my academics and work, I enjoy spending time with my guitars. If interested, feel free to check some of the work [here](/music/).* )</span>
   
 <!-- ## Test Scores
 

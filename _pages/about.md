@@ -43,7 +43,9 @@ My core interest lies in enabling robots to perceive and adapt to nuanced human 
 
 ---
 
+<!--
 <span style="font-size: 0.9em;">*( P.S.- Outside of my academics and work, I enjoy spending time with my guitars. If interested, feel free to check some of the work [here](/music/).* )</span>
+-->
   
 <!-- ## Test Scores
 

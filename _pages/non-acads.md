@@ -104,6 +104,20 @@ I occasionally post original compositions and solo covers here.
 </details>
 
 <details class="solo-section">
+  <summary>Read My Mind (The Killers)</summary>
+  <div class="video-container">
+    <iframe src="https://drive.google.com/file/d/1oIYkuNz2pQ5N1fu8aJMIbKiRTmqbOWPl/preview" allow="autoplay" allowfullscreen></iframe>
+  </div>
+</details>
+
+<details class="solo-section">
+  <summary>Summertime (My Chemical Romance)</summary>
+  <div class="video-container">
+    <iframe src="https://drive.google.com/file/d/1DeDzVtR0NMBKQghQWAIj36v49BEdk9e4/preview" allow="autoplay" allowfullscreen></iframe>
+  </div>
+</details>
+
+<details class="solo-section">
   <summary>Don't Cry (Guns N' Roses)</summary>
   <div class="video-container">
     <iframe src="https://drive.google.com/file/d/1yGepAruLnuUa7jDptLQWVd_NvSC2xjYX/preview" allow="autoplay" allowfullscreen></iframe>
@@ -121,6 +135,20 @@ I occasionally post original compositions and solo covers here.
   <summary>Girl Crush (Harry Styles Cover)</summary>
   <div class="video-container">
     <iframe src="https://drive.google.com/file/d/1RyJA-P1C2OiFwR2Izr5fzH7U0mVHAvVZ/preview" allow="autoplay" allowfullscreen></iframe>
+  </div>
+</details>
+
+<details class="solo-section">
+  <summary>Instant Crush (Daft Punk)</summary>
+  <div class="video-container">
+    <iframe src="https://drive.google.com/file/d/1JX5HckNwLNcgI95xMrBRfDaF-FJDUSe3/preview" allow="autoplay" allowfullscreen></iframe>
+  </div>
+</details>
+
+<details class="solo-section">
+  <summary>Fleabag (YUNGBLUD)</summary>
+  <div class="video-container">
+    <iframe src="https://drive.google.com/file/d/18QhpopVk7WxgbEM3corzCAEHOrsc45Da/preview" allow="autoplay" allowfullscreen></iframe>
   </div>
 </details>
 
@@ -156,6 +184,13 @@ I occasionally post original compositions and solo covers here.
   <summary>Beautiful Things (Benson Boone)</summary>
   <div class="video-container">
     <iframe src="https://drive.google.com/file/d/1Xi3r1HHhZZ9oyNAGZFHxCKlvirRq2qd0/preview" allow="autoplay" allowfullscreen></iframe>
+  </div>
+</details>
+
+<details class="solo-section">
+  <summary>Madness (Muse)</summary>
+  <div class="video-container">
+    <iframe src="https://drive.google.com/file/d/19-j7KALkMkqcFi-8w6rE86oMwzmqapRh/preview" allow="autoplay" allowfullscreen></iframe>
   </div>
 </details>
 
